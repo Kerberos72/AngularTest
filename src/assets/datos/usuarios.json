@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "nombres": "Juan",
+        "apellidos": "Perez",
+        "estado": "activo",
+        "usuario": "jperez",
+        "password": "1234"
+    },
+    {
+        "id":2,
+        "nombres": "Pedro",
+        "apellidos": "Gonzalez",
+        "estado": "inactivo",
+        "usuario": "pgonzalez",
+        "password": "5678"
+    },
+    {
+        "id":3,
+        "nombres": "Eduardo",
+        "apellidos": "Ramirez",
+        "estado": "activo",
+        "usuario": "eramirez",
+        "password": "9012"
+    }
+]
